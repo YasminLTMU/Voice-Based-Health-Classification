@@ -6,3 +6,18 @@ Perform exploratory data analysis (EDA) on the dataset to uncover key relationsh
 Build a predictive model to classify patients based on their health status
 Visualize insights in a Power BI dashboard
 Report on findings
+
+## Methodology
+### 1. Data Preparation
+### 2. Exploratory Data Analysis
+### 3. Modeling
+### 4. Visualization
+
+
+## Tools & Technologies
+Category	Tools Used
+Languages	Python, DAX
+Libraries	Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost
+Visualization	Power BI
+Environment	Google Colab, Power BI Desktop
+Documentation	Word / PDF Report, Markdown (GitHub)
