@@ -8,10 +8,10 @@ Visualize insights in a Power BI dashboard
 Report on findings
 
 ## Methodology
-### 1. Data Preparation
-### 2. Exploratory Data Analysis
-### 3. Modeling
-### 4. Visualization
+### - Data Preparation
+### - Exploratory Data Analysis
+### - Modeling
+### - Visualization
 
 
 ## Tools & Technologies
